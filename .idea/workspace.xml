@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51bf7ad4-d450-4fe9-94f6-c1083eeb93cc" name="Default Changelist" comment="Initial commit.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThirdChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/vandeneijk/RaceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/vandeneijk/ThirdChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/net/vandeneijk/RaceCarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/net/vandeneijk/ThirdChallengeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/net/vandeneijk/ThirdChallengeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/net/vandeneijk/ThirdChallengeTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +33,15 @@
   <component name="ProjectId" id="1S6Uga0AG6wu68lSt0ToOaJnhvv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -60,6 +52,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\Coding_SymbLink\Testing\ThirdChallenge" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,8 +69,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.net.vandeneijk in ThirdChallenge">
-    <configuration name="RaceCarTest.getSecondsToFinishBeforeTopSpeed" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ThirdChallengeTest">
+    <configuration name="ThirdChallengeTest.calculateRaceResultEbrahimsTestKm" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdChallenge" />
       <extension name="coverage">
         <pattern>
@@ -84,14 +79,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="net.vandeneijk" />
-      <option name="MAIN_CLASS_NAME" value="net.vandeneijk.RaceCarTest" />
-      <option name="METHOD_NAME" value="getSecondsToFinishBeforeTopSpeed" />
+      <option name="MAIN_CLASS_NAME" value="net.vandeneijk.ThirdChallengeTest" />
+      <option name="METHOD_NAME" value="calculateRaceResultEbrahimsTestKm" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceCarTest.getSecondsToFinishLongRace" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThirdChallengeTest.calculateRaceResultEbrahimsTestM" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdChallenge" />
       <extension name="coverage">
         <pattern>
@@ -100,14 +95,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="net.vandeneijk" />
-      <option name="MAIN_CLASS_NAME" value="net.vandeneijk.RaceCarTest" />
-      <option name="METHOD_NAME" value="getSecondsToFinishLongRace" />
+      <option name="MAIN_CLASS_NAME" value="net.vandeneijk.ThirdChallengeTest" />
+      <option name="METHOD_NAME" value="calculateRaceResultEbrahimsTestM" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceCarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RaceCarTest.getTimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdChallenge" />
       <extension name="coverage">
         <pattern>
@@ -117,7 +112,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="net.vandeneijk" />
       <option name="MAIN_CLASS_NAME" value="net.vandeneijk.RaceCarTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="getTimes" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,7 +133,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="net.vandeneijk in ThirdChallenge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThirdChallengeTest.calculateRaceResultEbrahimsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdChallenge" />
       <extension name="coverage">
         <pattern>
@@ -146,18 +142,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="net.vandeneijk" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="net.vandeneijk.ThirdChallengeTest" />
+      <option name="METHOD_NAME" value="calculateRaceResultEbrahimsTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.net.vandeneijk in ThirdChallenge" />
-        <item itemvalue="JUnit.RaceCarTest" />
         <item itemvalue="JUnit.ThirdChallengeTest" />
-        <item itemvalue="Android JUnit.RaceCarTest.getSecondsToFinishLongRace" />
-        <item itemvalue="Android JUnit.RaceCarTest.getSecondsToFinishBeforeTopSpeed" />
+        <item itemvalue="Android JUnit.ThirdChallengeTest.calculateRaceResultEbrahimsTestM" />
+        <item itemvalue="Android JUnit.ThirdChallengeTest.calculateRaceResultEbrahimsTestKm" />
+        <item itemvalue="JUnit.ThirdChallengeTest.calculateRaceResultEbrahimsTest" />
+        <item itemvalue="JUnit.RaceCarTest.getTimes" />
       </list>
     </recent_temporary>
   </component>
@@ -176,8 +174,19 @@
       <workItem from="1570957981227" duration="6352000" />
       <workItem from="1570969794702" duration="362000" />
       <workItem from="1570970194935" duration="76000" />
-      <workItem from="1570970397802" duration="569000" />
+      <workItem from="1570970397802" duration="948000" />
+      <workItem from="1571040995610" duration="1029000" />
+      <workItem from="1571075252532" duration="4940000" />
+      <workItem from="1571129682510" duration="3936000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1570970982980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570970982980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
