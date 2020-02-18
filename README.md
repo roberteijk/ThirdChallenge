@@ -1,5 +1,8 @@
 Note: This was one of the coding challenges given to me when applying for a job. The text below is not mine and pasted as is.
 
+--------------------------------------------
+--------------------------------------------
+
 #Third Challenge
 Being an expert, you have been asked to calculate the quickest way to reach the finish of the Formula 1 race. 
 Therefor you have decided to make a program for this, so that you can give the exact answer. 
